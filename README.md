@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+pruebo link [web1](https://pepiamodeo.github.io/cursotallerIADO/web1.html)
+
+pruebo link [web1](https://pepiamodeo.github.io/cursotallerIADO/web1.md)
+
 You can use the [editor on GitHub](https://github.com/pepiamodeo/cursotallerIADO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
