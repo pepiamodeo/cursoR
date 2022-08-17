@@ -1,7 +1,16 @@
-## Welcome to GitHub Pages
+## Curso-Taller Introducción a R 2022
 
-pruebo link [web1](https://pepiamodeo.github.io/cursotallerIADO/web1.html)
+[Inicio](https://pepiamodeo.github.io/cursotallerIADO/)
 
+### Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca, Argentina
+
+¡Bienvenido/a al Curso-Taller Introducción a R! En esta web vas a encontrar todo el material y las novedades a medida que avancemos en el curso.
+
+## Tutorial de instalación de R y Rstudio
+
+[Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/933224)
+
+<!--
 pruebo link [pdf](https://pepiamodeo.github.io/cursotallerIADO/Clase1_presentacion.pdf)
 
 You can use the [editor on GitHub](https://github.com/pepiamodeo/cursotallerIADO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -39,3 +48,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+-->
