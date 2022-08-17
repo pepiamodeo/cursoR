@@ -1,14 +1,10 @@
 ## Curso-Taller Introducción a R 2022
 
-[Inicio](https://pepiamodeo.github.io/cursotallerIADO/)
-
 ### Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca, Argentina
 
 ¡Bienvenido/a al Curso-Taller Introducción a R! En esta web vas a encontrar todo el material y las novedades a medida que avancemos en el curso.
 
-## Tutorial de instalación de R y Rstudio
-
-[Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/933224)
+[Tutorial de Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/933224)
 
 <!--
 pruebo link [pdf](https://pepiamodeo.github.io/cursotallerIADO/Clase1_presentacion.pdf)
