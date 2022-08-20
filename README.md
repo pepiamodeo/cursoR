@@ -2,12 +2,14 @@
 
 ### Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca, Argentina
 
-¡Bienvenido/a al Curso-Taller Introducción a R! En esta web vas a encontrar todo el material y las novedades a medida que avancemos en el curso.
-
 ![icon_IADO](./TPs/img/logo_iado_2019_negro.png)
+
+¡Bienvenido/a al Curso-Taller Introducción a R! En esta web vas a encontrar todo el material y las novedades a medida que avancemos en el curso.
 
 **** 
 [Tutorial de Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/933224)
+
+[Formulario sobre la instalación](https://forms.gle/AcrwUS1tdpp1f6jE7)
 
 ****
 <!--
