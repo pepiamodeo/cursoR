@@ -1,4 +1,4 @@
-Trabajo Práctico 2 - Funciones y librerías
+Trabajo Práctico 2 - Funciones y paquetes
 ================
 Pepi Amodeo
 Agosto 2022
@@ -31,7 +31,7 @@ Argentina
 ## Ejercicios
 
 **Al finalizar estos ejercicios vas a tener que plasmar tus resultados
-en el siguiente formulario [link](LINK)**
+en el siguiente formulario [link](https://forms.gle/UnxV9xCZ9yUrCCd56)**
 
 1)  Descargá el siguiente
     [script](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/TP2_ejercicio.R)
