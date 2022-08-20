@@ -7,23 +7,16 @@ Agosto 2022
 <style> body {text-align: justify} </style>
 <!--SOCIAL LINKS-->
 
+Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca,
+Argentina
+
 [![icon_github](./img/icon_github.png)](https://github.com/pepiamodeo)![icon_IADO](./img/logo_iado_2019_negro.png)
 
 [Web del Curso](https://pepiamodeo.github.io/cursotallerIADO/)
 
-Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca,
-Argentina
-
 # Objetivos
 
-<!--Obejtivos-->
-
-<div class="fullwidth">
-
 ------------------------------------------------------------------------
-
-<!--de qué va? que se hace en este tutorial? para quien está dirigido? objetivo-->
-<!--3-4 líneas 50-80 palabras-->
 
 -   Reconocer la interfaz de Rstudio (consola y script)
 
@@ -34,8 +27,6 @@ Argentina
 -   Utilizar funciones básicas y operadores lógicos
 
 ------------------------------------------------------------------------
-
-</div>
 
 ## Ejercicios
 
