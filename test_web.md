@@ -5,7 +5,7 @@
 
 ****
 
-[TP1](https://github.com/pepiamodeo/cursotallerIADO/TPs/1_TP1.md)
+[TP1](https://github.com/pepiamodeo/cursotallerIADO/TPs/1_TP1.html)
 
 ****
 
