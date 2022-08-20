@@ -4,8 +4,12 @@
 
 ¡Bienvenido/a al Curso-Taller Introducción a R! En esta web vas a encontrar todo el material y las novedades a medida que avancemos en el curso.
 
+![icon_IADO](./TPs/img/logo_iado_2019_negro.png)
+
+**** 
 [Tutorial de Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/933224)
 
+****
 <!--
 pruebo link [pdf](https://pepiamodeo.github.io/cursotallerIADO/Clase1_presentacion.pdf)
 
