@@ -6,8 +6,6 @@
 # Pepi Amodeo
 # Agosto 2022
 
-# Ejercicio 1
-
 2*3
 8/8
 10^6
@@ -20,5 +18,10 @@
 
 log(10)
 sqrt(100)
+
+?log()
+help(log)
+help("+")
+help("<")
 
 log(uno)
