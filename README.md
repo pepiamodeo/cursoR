@@ -47,3 +47,19 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 [Formulario TP2](https://forms.gle/UnxV9xCZ9yUrCCd56)
 
 ****
+
+## Grabaciones
+
+****
+
+#### Día 1
+
+[Clase 2 R y Rstudio](https://us06web.zoom.us/rec/share/3aoQ0NJUk2Kl7y_BGRkSPjeXRarKgjMsx_Q6f9Ebfjm2jp1ou6TPsyw1tHSEw8-M.0AGOBuUi6vTw1adh?startTime=1661171558000)
+
+[Clase 3 Funciones y Paquetes](https://us06web.zoom.us/rec/share/3aoQ0NJUk2Kl7y_BGRkSPjeXRarKgjMsx_Q6f9Ebfjm2jp1ou6TPsyw1tHSEw8-M.0AGOBuUi6vTw1adh?startTime=1661173336000)
+
+[Demostración 1](https://us06web.zoom.us/rec/share/3aoQ0NJUk2Kl7y_BGRkSPjeXRarKgjMsx_Q6f9Ebfjm2jp1ou6TPsyw1tHSEw8-M.0AGOBuUi6vTw1adh?startTime=1661175274000)
+
+[Demostración 2](https://us06web.zoom.us/rec/share/3aoQ0NJUk2Kl7y_BGRkSPjeXRarKgjMsx_Q6f9Ebfjm2jp1ou6TPsyw1tHSEw8-M.0AGOBuUi6vTw1adh?startTime=1661177196000)
+
+****
