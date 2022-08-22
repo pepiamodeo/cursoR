@@ -51,9 +51,9 @@ en el siguiente formulario [link](https://forms.gle/UnxV9xCZ9yUrCCd56)**
     para poner el encabezado o comentarios que quieras. Guardalo en tu
     carpeta del TP2 con el nombre que quieras.
 
-5)  En tu script, vas a escribir seis líneas: 1- Activar la librería
+5)  En tu script, vas a escribir cuatro líneas: 1- Activar la librería
     *cowsay* (ya está instalada ¿o no?), 2- Usar la función *say()* en
-    cinco líneas distintas. Cada vez vas a modificar argumentos como vos
+    tres líneas distintas. Cada vez vas a modificar argumentos como vos
     quieras (explorá en la ayuda para qué sirven *what=*, *by=*, por
     ejemplo). Siempre usá la ayuda para inspirarte.
 
@@ -62,7 +62,9 @@ en el siguiente formulario [link](https://forms.gle/UnxV9xCZ9yUrCCd56)**
     o CTRL+S). Seleccioná todo el texto de tu script y pegalo en el
     formulario.
 
-7)  EN LA CONSOLA, escribí la función *endless_horse()* y mirá la
-    consola (¡vas a tener que recurrir al botón STOP de la consola!)
+7)  EN LA CONSOLA, escribí la función *endless_horse()* y pulsá ENTER. Mirá la
+    consola (¡vas a tener que recurrir al botón STOP de la consola!).
+    
+Al cerrar, Rstudio te pregunta si querés guardar el *workspace*. Seleccioná "Don´t Save". Luego veremos de qué se trata.
 
 ------------------------------------------------------------------------
