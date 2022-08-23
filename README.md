@@ -70,4 +70,12 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 [Demostración 2](https://us06web.zoom.us/rec/share/3aoQ0NJUk2Kl7y_BGRkSPjeXRarKgjMsx_Q6f9Ebfjm2jp1ou6TPsyw1tHSEw8-M.0AGOBuUi6vTw1adh?startTime=1661177196000)
 
+#### Día 2
+
+[Recapitulación TP1y2 y Clase 4 Objetos](https://us06web.zoom.us/rec/share/Oic7ZDI-DkktG-IFT1CYYi0zhJXA-poouPGSJM3b0jpz0BGFSrLyDhPcKQFuBxjm.ktzd9EN_FatonbIL?startTime=1661256324000)
+
+[Clase 5 Objetos y Datos](https://us06web.zoom.us/rec/share/Oic7ZDI-DkktG-IFT1CYYi0zhJXA-poouPGSJM3b0jpz0BGFSrLyDhPcKQFuBxjm.ktzd9EN_FatonbIL?startTime=1661259717000)
+
+[Demostración 3](https://us06web.zoom.us/rec/share/Oic7ZDI-DkktG-IFT1CYYi0zhJXA-poouPGSJM3b0jpz0BGFSrLyDhPcKQFuBxjm.ktzd9EN_FatonbIL?startTime=1661261904000)
+
 ****
