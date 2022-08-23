@@ -18,6 +18,8 @@
 
 [Clase 3 Funciones y Paquetes](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase3_funciones_paquetes.pdf)
 
+#### Día 2
+
 [Clase 4 Objetos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase4_objetos.pdf)
 
 [Clase 5 Objetos y Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase5_datos_objetos.pdf)
@@ -29,8 +31,6 @@
 ****
 
 [Tutorial de Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/933224)
-
-#### Día 1
 
 [TP1](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP1.html)
 
