@@ -16,7 +16,11 @@
 
 [Clase 2 R y Rstudio](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase2_RyRstudio.pdf)
 
-[Clase 3 Funciones y Paquetes](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase3_funciones_paquetes.html)
+[Clase 3 Funciones y Paquetes](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase3_funciones_paquetes.pdf)
+
+[Clase 4 Objetos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase4_objetos.pdf)
+
+[Clase 5 Objetos y Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase5_datos_objetos.pdf)
 
 ****
 
@@ -32,6 +36,8 @@
 
 [TP2](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP2.html)
 
+[TP3](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP3.html)
+
 ****
 
 ## Formularios de Trabajos Prácticos
@@ -45,6 +51,8 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 [Formulario TP1](https://forms.gle/FGYMaaPeP3s8k7Um6)
 
 [Formulario TP2](https://forms.gle/UnxV9xCZ9yUrCCd56)
+
+[Formulario TP3](https://forms.gle/6NMJH5tixq2S6QLa9)
 
 ****
 
