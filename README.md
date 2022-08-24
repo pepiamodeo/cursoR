@@ -100,5 +100,9 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 [Demostración Proyectos ](https://us06web.zoom.us/rec/share/tfllFBhrZCLjWuIaeR--fXgseCIf3TELbZ3vTPS3cabMYVNuDegJiSJwPXfvN_sc.vSWCJ8Y2oTpI9b8L?startTime=1661350415000)
 
-
 ****
+
+
+REMEMBER... REMEMBER...
+
+![desk_flip](./TPs/img/deskflip_150p.gif)
