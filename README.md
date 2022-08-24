@@ -88,4 +88,11 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 [Demostración 3](https://us06web.zoom.us/rec/share/Oic7ZDI-DkktG-IFT1CYYi0zhJXA-poouPGSJM3b0jpz0BGFSrLyDhPcKQFuBxjm.ktzd9EN_FatonbIL?startTime=1661261904000)
 
+#### Día 3
+
+[Clase 6 Proyectos - Parte 2](https://us06web.zoom.us/rec/share/tfllFBhrZCLjWuIaeR--fXgseCIf3TELbZ3vTPS3cabMYVNuDegJiSJwPXfvN_sc.vSWCJ8Y2oTpI9b8L?startTime=1661348006000)
+
+[Demostración Proyectos ](https://us06web.zoom.us/rec/share/tfllFBhrZCLjWuIaeR--fXgseCIf3TELbZ3vTPS3cabMYVNuDegJiSJwPXfvN_sc.vSWCJ8Y2oTpI9b8L?startTime=1661350415000)
+
+
 ****
