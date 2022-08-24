@@ -24,6 +24,10 @@
 
 [Clase 5 Objetos y Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase5_datos_objetos.pdf)
 
+[Clase 6 Proyectos y Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase6_proyectos.pdf)
+
+[Clase 7 Organización de Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase7_tidy.pdf)
+
 ****
 
 ## Trabajos Prácticos
@@ -56,7 +60,7 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 [Formulario TP3](https://forms.gle/6NMJH5tixq2S6QLa9)
 
-<!--[Formulario TP4](https://forms.gle/6NMJH5tixq2S6QLa9)-->
+<!--[Formulario TP4](https://forms.gle/TkXS3yQ7K1N7TZGg9)-->
 
 ****
 

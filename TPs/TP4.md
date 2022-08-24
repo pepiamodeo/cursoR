@@ -32,7 +32,7 @@ Argentina
 ## Ejercicios
 
 **Al finalizar estos ejercicios vas a tener que plasmar tus resultados
-en el siguiente formulario [link](https://forms.gle/6NMJH5tixq2S6QLa9)**
+en el siguiente formulario [link](https://forms.gle/TkXS3yQ7K1N7TZGg9)**
 
 1)  Cerrá Rstudio. Descargá el siguiente archivo comprimido
     [zip](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/analisis_metales.zip)
