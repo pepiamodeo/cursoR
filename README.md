@@ -42,7 +42,7 @@
 
 [TP3](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP3.html)
 
-<!--[TP4](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP4.html)-->
+[TP4](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP4.html)
 
 ****
 
@@ -60,7 +60,7 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 [Formulario TP3](https://forms.gle/6NMJH5tixq2S6QLa9)
 
-<!--[Formulario TP4](https://forms.gle/TkXS3yQ7K1N7TZGg9)-->
+[Formulario TP4](https://forms.gle/TkXS3yQ7K1N7TZGg9)
 
 ****
 
