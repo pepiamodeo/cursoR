@@ -24,6 +24,8 @@
 
 [Clase 5 Objetos y Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase5_datos_objetos.pdf)
 
+#### Día 3
+
 [Clase 6 Proyectos y Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase6_proyectos.pdf)
 
 [Clase 7 Organización de Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase7_tidy.pdf)
