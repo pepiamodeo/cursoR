@@ -90,6 +90,12 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 #### Día 3
 
+[Recapitulación TP3](https://drive.google.com/file/d/1AQdxPgBbLRREYwqs1P30CtRPJwk_GnFN/view?usp=sharing)
+
+[Clase 6 Proyectos - Parte 1](https://drive.google.com/file/d/1ASFbqLLMWEGq6TpVpMWPCwUhPlY3wFyf/view?usp=sharing)
+
+¡Muchas gracias a Guillermo Alejandro Mora por las grabaciones! ¡y a todo/as por la paciencia para sobrellevar el corte de luz!
+
 [Clase 6 Proyectos - Parte 2](https://us06web.zoom.us/rec/share/tfllFBhrZCLjWuIaeR--fXgseCIf3TELbZ3vTPS3cabMYVNuDegJiSJwPXfvN_sc.vSWCJ8Y2oTpI9b8L?startTime=1661348006000)
 
 [Demostración Proyectos ](https://us06web.zoom.us/rec/share/tfllFBhrZCLjWuIaeR--fXgseCIf3TELbZ3vTPS3cabMYVNuDegJiSJwPXfvN_sc.vSWCJ8Y2oTpI9b8L?startTime=1661350415000)
