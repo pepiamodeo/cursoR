@@ -31,6 +31,7 @@
 [Clase 7 Organización de Datos](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase7_tidy.pdf)
 
 #### Día 4
+
 [Clase 8 ggplot2](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase8_ggplot.pdf)
 
 ****
@@ -106,6 +107,8 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 [Clase 7 Proyectos - Parte 2](https://us06web.zoom.us/rec/share/tfllFBhrZCLjWuIaeR--fXgseCIf3TELbZ3vTPS3cabMYVNuDegJiSJwPXfvN_sc.vSWCJ8Y2oTpI9b8L?startTime=1661348006000)
 
 [Demostración Proyectos ](https://us06web.zoom.us/rec/share/tfllFBhrZCLjWuIaeR--fXgseCIf3TELbZ3vTPS3cabMYVNuDegJiSJwPXfvN_sc.vSWCJ8Y2oTpI9b8L?startTime=1661350415000)
+
+#### Día 4
 
 [Recapitulación TP4 - Parte 1](https://us06web.zoom.us/rec/share/g2TI40O9XvhuO_jQse9GbG5d7VR1CDQXhdcDbJYtUnKbQ_1GUZ3qmrvbH5xLV-ta.i0QaVdLkUJCz1AzW?startTime=1661429505000)
 
