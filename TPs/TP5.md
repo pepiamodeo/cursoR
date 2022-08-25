@@ -58,6 +58,7 @@ subir dos archivos en el siguiente formulario
 
 4)  Ahora vas a trabajar sobre el proyecto que creaste vos con tus datos
     inventados ayer en el TP4.
+
     -   Cerrá Rstudio
     -   Desde el explorador de windows abrí el archivo Rproj de tu
         proyecto (Proyecto de R).
@@ -65,12 +66,15 @@ subir dos archivos en el siguiente formulario
         ayer para cargar los datos.
     -   Chequeá que tus variables estén bien cargadas en el área de
         trabajo (numéricas, categóricas, NA, etc).
+
 5)  Vas a generar cuatro gráficos distintos usando ggplot sobre las
     variables que vos quieras:
+
     -   uno que utilice puntos (geom_point())
     -   uno que involucre una variable categórica y una numérica. Usá el
         geom que quieras
     -   uno que involucre un facet (facet_grid()).
+
 6)  Guardá tu script, cerrá Rstudio (*don´t save workspace*), comprimí
     la carpeta de tu proyecto en zip y subila al gform.
 
