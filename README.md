@@ -34,6 +34,12 @@
 
 [Clase 8 ggplot2](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase8_ggplot.pdf)
 
+#### Día 5
+
+[Demostración dudas `ggplot2`](https://pepiamodeo.github.io/cursotallerIADO/clases/demo6_ggsave.R)
+
+[Demostración `tidy` y `dplyr`](https://pepiamodeo.github.io/cursotallerIADO/clases/demo7_tidy_plyr.R)
+
 ## Recursos
 
 [Glosario]((https://pepiamodeo.github.io/cursotallerIADO/clases/Glosario.pdf))
@@ -44,6 +50,11 @@
    * [muuuuuuuchos libros](https://www.r-project.org/doc/bib/R-books.html)
    * [Cookbook R](http://www.cookbook-r.com/)
    * [R Graph Gallery](https://r-graph-gallery.com/)
+
+Plataformas y apps para practicar ciencia de datos y programación
+
+   * [DATACAMP](https://www.datacamp.com/) (Aporte de Sofía Dutto)
+   * [r-medic](http://www.r-medic.com/) (Aporte de Maialen Ardusso)
 
 ****
 
