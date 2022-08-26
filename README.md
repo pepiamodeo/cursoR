@@ -42,7 +42,7 @@
 
 ## Recursos
 
-[Glosario]((https://pepiamodeo.github.io/cursotallerIADO/clases/Glosario.pdf))
+[Glosario](https://pepiamodeo.github.io/cursotallerIADO/clases/Glosario.pdf)
 
    * [Rhelp](https://www.r-project.org/help.html) La ayuda de `R` es el primer lugar.
    * [stack overflow](https://stackoverflow.com/)
