@@ -6,6 +6,11 @@
 
 ¡Bienvenido/a al Curso-Taller Introducción a R! En esta web vas a encontrar todo el material y las novedades a medida que avancemos en el curso.
 
+
+Ella es claqueta...
+
+![claquetita](./TPs/img/claqueta200.png)
+
 ## Clases
 
 ****
