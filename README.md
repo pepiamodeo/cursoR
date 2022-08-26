@@ -34,6 +34,17 @@
 
 [Clase 8 ggplot2](https://pepiamodeo.github.io/cursotallerIADO/clases/Clase8_ggplot.pdf)
 
+## Recursos
+
+[Glosario]((https://pepiamodeo.github.io/cursotallerIADO/clases/Glosario.pdf))
+
+   * [Rhelp](https://www.r-project.org/help.html) La ayuda de `R` es el primer lugar.
+   * [stack overflow](https://stackoverflow.com/)
+   * [Rpubs](https://rpubs.com/)
+   * [muuuuuuuchos libros](https://www.r-project.org/doc/bib/R-books.html)
+   * [Cookbook R](http://www.cookbook-r.com/)
+   * [R Graph Gallery](https://r-graph-gallery.com/)
+
 ****
 
 ## Trabajos Prácticos
@@ -51,6 +62,8 @@
 [TP4](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP4.html)
 
 [TP5](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP5.html)
+
+[TP6](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP6.html)
 
 ****
 
@@ -71,6 +84,8 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 [Formulario TP4](https://forms.gle/TkXS3yQ7K1N7TZGg9)
 
 [Formulario TP5](https://forms.gle/39cE9PJk1af8kux5A)
+
+[Formulario TP6](https://forms.gle/F93nvRgCQJk8v3op8)
 
 ****
 
