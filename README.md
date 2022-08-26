@@ -9,7 +9,7 @@
 
 Ella es claqueta...
 
-![claquetita](./TPs/img/claqueta200.png)
+![claquetita](./TPs/img/claquetita_200.png)
 
 ## Clases
 
