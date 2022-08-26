@@ -144,8 +144,15 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 [Clase 8 ggplot2](https://us06web.zoom.us/rec/share/g2TI40O9XvhuO_jQse9GbG5d7VR1CDQXhdcDbJYtUnKbQ_1GUZ3qmrvbH5xLV-ta.i0QaVdLkUJCz1AzW?startTime=1661435333000)
 
-****
+#### Día 5
 
+[Recapitulación TP5](https://us06web.zoom.us/rec/share/d9C4pV3cLHB9-xvWky9Mcn7NZ66uEDlNOKWuC67CL64MGR-JkYEWn6OaZ-FJYkw.dr5Ga-dYqCePOPkv?startTime=1661515506000)
+
+[Demostración dudas ggplot2](https://us06web.zoom.us/rec/share/d9C4pV3cLHB9-xvWky9Mcn7NZ66uEDlNOKWuC67CL64MGR-JkYEWn6OaZ-FJYkw.dr5Ga-dYqCePOPkv?startTime=1661517460000)
+
+[Demostración tidy dplyr](https://us06web.zoom.us/rec/share/d9C4pV3cLHB9-xvWky9Mcn7NZ66uEDlNOKWuC67CL64MGR-JkYEWn6OaZ-FJYkw.dr5Ga-dYqCePOPkv?startTime=1661519993000)
+
+****
 
 REMEMBER... REMEMBER...
 
