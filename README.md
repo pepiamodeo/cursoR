@@ -159,6 +159,12 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 
 ****
 
+*after* curso!
+
+![after](./TPs/img/after_curso_2022.JPG)
+
+****
+
 REMEMBER... REMEMBER...
 
 ![desk_flip](./TPs/img/deskflip_150p.gif)
