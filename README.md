@@ -10,7 +10,7 @@
 
 ****
 
-[CV del profesor](https://pepiamodeo.github.io/cursotallerIADO/clases/file:///D:/IADO/Cursos/2022_R_ini/docs/CV_Amodeo_2022.pdf)
+[CV del profesor](https://pepiamodeo.github.io/cursotallerIADO/clases/CV_Amodeo_2022.pdf)
 
 [Contenido del curso](https://pepiamodeo.github.io/cursotallerIADO/clases/contenido_cursoR_2022.pdf)
 
