@@ -31,9 +31,9 @@
 
 [Tutorial de Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/instalacion2023)
 
-[TP1](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP1.html)
+[TP1](https://pepiamodeo.github.io/cursoR/TPs/TP1.html)
 
-[TP2](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP2.html)
+[TP2](https://pepiamodeo.github.io/cursoR/TPs/TP2.html)
 
 
 ****
