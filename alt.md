@@ -168,3 +168,11 @@ __Siempre asegurate de que el formulario se envíe correctamente. Luego de envia
 REMEMBER... REMEMBER...
 
 ![desk_flip](./TPs/img/deskflip_150p.gif)
+
+
+# Edicion Agosto 2022
+
+[CV del profesor](https://pepiamodeo.github.io/cursotallerIADO/clases/CV_Amodeo_2022.pdf)
+
+[Contenido del curso](https://pepiamodeo.github.io/cursotallerIADO/clases/contenido_cursoR_2022.pdf)
+
