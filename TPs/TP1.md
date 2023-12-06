@@ -36,7 +36,7 @@ Pepi Amodeo
 en el siguiente formulario [link](https://forms.gle/p28MJgjMAcY1yjRU9)**
 
 1)  Descargá el siguiente
-    [script](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/TP1_ejercicio.R)
+    [script](https://pepiamodeo.github.io/cursoR/TPs/scripts/TP1_ejercicio.R)
     y abrilo en Rstudio. Recordá ubicar el archivo en una carpeta que te
     resulte cómoda (Escritorio/CursoR/TP1, por ejemplo).
 

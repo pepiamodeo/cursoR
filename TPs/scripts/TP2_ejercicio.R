@@ -1,10 +1,10 @@
 
-# Curso-Taller Introducción a R
-# IADO CONICET UNS, Bahía Blanca
+# Curso Introducción a R
+# DBBF UNS, IADO CONICET, Bahía Blanca
 
 # Trabajo Práctico 2
 # Pepi Amodeo
-# Agosto 2022
+# Diciembre 2023
 
 #cowsay
 install.packages("cowsay")
