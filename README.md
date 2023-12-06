@@ -11,7 +11,7 @@
 
 ****
 
-## Clases
+## Planilla Inscripción UNS
 
 ****
 
