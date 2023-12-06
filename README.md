@@ -15,6 +15,14 @@
 
 ****
 
+[Planilla de Inscripción UNS](https://pepiamodeo.github.io/cursoR/clases/Planilla_inscripcion_cursos.docx)
+
+****
+
+## Clases
+
+****
+
 #### Día 1
 
 [Clase 1 Presentación](https://pepiamodeo.github.io/cursoR/clases/Clase1_presentacion.pdf)
@@ -35,6 +43,21 @@
 
 [TP2](https://pepiamodeo.github.io/cursoR/TPs/TP2.html)
 
+****
+
+## Grabaciones
+
+****
+
+#### Día 1
+
+[Clase 2 R y Rstudio](https://drive.google.com/file/d/18AYXp5lwl_OlCsIuVTcU6CBMqmYNla_B/view?usp=drive_link)
+
+[Clase 3 Funciones y Paquetes - Parte 1](https://drive.google.com/file/d/18DNq-_Bk29Bm91tOd7Trc9dfucDQCqev/view?usp=drive_link)
+
+[Clase 3 Funciones y Paquetes - Parte 2](https://drive.google.com/file/d/1bGd5hXQUaUbT5k1Z_-tTEpO--Uvnbzfc/view?usp=drive_link)
+
+[Demostración TP1y2](https://drive.google.com/file/d/1lmq-ej3g8BhL3aCYcuB_YILM07gYnVXy/view?usp=drive_link)
 
 ****
 
