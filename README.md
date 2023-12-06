@@ -15,7 +15,9 @@
 
 ****
 
-[Planilla de Inscripción UNS](https://pepiamodeo.github.io/cursoR/clases/Planilla_inscripcion_cursos.docx)
+[Descargar Planilla de Inscripción UNS](https://pepiamodeo.github.io/cursoR/clases/Planilla_inscripcion_cursos.docx)
+
+[Subir Planilla completa en pdf](https://forms.gle/E85fyNQRNkQ7hhmp8)
 
 ****
 
