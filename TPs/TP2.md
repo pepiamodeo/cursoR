@@ -33,7 +33,7 @@ Pepi Amodeo
 ## Ejercicios
 
 **Al finalizar estos ejercicios vas a tener que plasmar tus resultados
-en el siguiente formulario [link](https://forms.gle/UnxV9xCZ9yUrCCd56)**
+en el siguiente formulario [link](https://forms.gle/Rih9YjcDdufevZNV6)**
 
 1)  Descargá el siguiente
     [script](https://pepiamodeo.github.io/cursoR/TPs/scripts/TP2_ejercicio.R)
@@ -48,18 +48,19 @@ en el siguiente formulario [link](https://forms.gle/UnxV9xCZ9yUrCCd56)**
     Buscá en la ayuda de la función *say()*.
 
 4)  Ahora te toca crear a vos un script (File/New File/Rscript). Usa \#
-    para poner el encabezado o comentarios que quieras. Guardalo en tu
-    carpeta del TP2 con el nombre que quieras.
+    para poner el encabezado y comentarios que quieras para
+    personalizarlo. Guardalo en tu carpeta del TP2 con el nombre que
+    quieras.
 
-5)  En tu script, vas a escribir cuatro líneas:
+5)  En tu script, vas a escribir las siguientes líneas:
 
-    -   Activar la librería *cowsay* (ya está instalada ¿o no?),
-    -   Usar la función *say()* en tres líneas distintas. Cada vez vas a
-        definir los argumentos como vos quieras (explorá en la ayuda
-        para qué sirven *what=*, *by=*, por ejemplo).
-    -   Buscá en la ayuda para inspirarte con otros argumentos.
-    -   Usá say(by=“rms”) ¿quién es el de la imagen? (podés usar la
-        ayuda)
+-   Activar la librería *cowsay* (ya está instalada ¿o no?),
+-   Usar la función *say()* en tres líneas distintas. Cada vez vas a
+    definir los argumentos como vos quieras (explorá en la ayuda para
+    qué sirven *what=*, *by=*, por ejemplo).
+-   Buscá en la ayuda para inspirarte con otros argumentos.
+-   Usá say(by=“rms”) ¿quién es el de la imagen? (podés buscar en la
+    ayuda)
 
 6)  Agregá comentarios en el script (usando \#). Guardá las
     modificaciones (icono de diskette en el editor de scripts o CTRL+S).
