@@ -29,7 +29,7 @@
 
 ****
 
-[Tutorial de Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/933224)
+[Tutorial de Instalación de R y Rstudio](https://rpubs.com/pepiamodeo/instalacion2023)
 
 [TP1](https://pepiamodeo.github.io/cursotallerIADO/TPs/TP1.html)
 
