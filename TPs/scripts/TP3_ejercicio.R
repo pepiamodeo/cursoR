@@ -1,41 +1,36 @@
 
-# Curso-Taller Introducción a R
-# IADO CONICET UNS, Bahía Blanca
+# Curso Introducción a R
+# DBBF UNS, IADO CONICET, Bahía Blanca
 
 # Trabajo Práctico 3
 # Pepi Amodeo
-# Agosto 2022
+# Diciembre 2023
 
 # Objetos
 
-# acertijo Paenza
-
-x <- 12
-a <- x + 6
-b <- a*2 
-c <- b - 8 
-d <- c/2 
-
-d - x == 2
-
 # OBJETOS SIMPLES (VALORES) ####
+
+x <- 12 # asigno el valor 12 al objeto x
+a <- 18
 
 # operaciones, funciones
 
-a/b
+b <- a*2 # asigno el resultado de la operación al objeto b
+c <- b - 8 
+d <- c/2 
+
+a/b # operación sin asignar objeto (muestra resultado en la consola)
 b*2
 
 log(a)
 sqrt(d)
 exp(c)
 
-log_a <- log(a)
+log_a <- log(a) # genero otro objeto
 
-(log_a*B/c) - 2/d # epa! qué pasó?
+(log_a*B/c) - 2/d # epa! qué pasó? se te ocurre una solución?
 
-
-# ahora... limpiá tu área de trabajo COCHINO/A!
-# y si te considerás neurótico/a nivel supremo, limpiá la consola también
+# ahora... limpiá el área de trabajo y seguí
 
 # VECTORES ####
 
@@ -55,43 +50,12 @@ round(v1) #ups! y esto? buscá en ayuda... quizás te sirva más adelante...
 # funciones segunda parte
 
 mean(v1)
-sum(v2) # ya sabés cómo buscar ayuda sobre estas funciones ¿no?
+sum(v2) # ya sabes cómo buscar en la ayuda para qué sirve esta función
+sd(v1) # ya sabes cómo buscar en la ayuda para qué sirve esta función
 
 # funciones tercera parte
 
-v1-mean(v1)
+v1-mean(v1) # madre mía! qué está pasando aquí?!
+(v1-mean(v1))/sd(v1) # what?!
+# una pista: estoy seguro de que has hecho eso en excel alguna vez
 
-# madre mía! qué está pasando!
-
-# DATAFRAME ####
-
-datos_viento <- data.frame(vel_viento=v1,
-           vel_max=v2,
-           dir=v3,
-           hum_rel=v4)
-
-# cuántas variables tiene el objeto datos_viento?
-
-datos_viento$dir <- as.factor(datos_viento$dir)
-
-# y ahora? qué cambió?
-
-datos_viento$log_vel_viento <- log(datos_viento$vel_viento)
-
-# y ahora? cuantas variables hay?
-
-datos_viento$hum_rel <- datos_viento$hum_rel*100
-
-# y ahora? qué cambió?
-
-# convertí vel_max a una variable de número entero, sobreescribiéndola
-
-
-
-
-
-rm(list=ls()) # por los santos evangelios! qué paso?!
-
-# podés llorar desconsoladamente
-# o podés buscar ayuda de las funciones rm() y ls()
-# para ver por qué pasó lo que pasó

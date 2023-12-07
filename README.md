@@ -45,6 +45,13 @@
 
 [TP2](https://pepiamodeo.github.io/cursoR/TPs/TP2.html)
 
+[TP3](https://pepiamodeo.github.io/cursoR/TPs/TP3.html)
+
+[TP3.1](https://pepiamodeo.github.io/cursoR/TPs/TP3.1.html)
+
+[TP3.2](https://pepiamodeo.github.io/cursoR/TPs/TP3.2.html)
+
+
 ****
 
 ## Grabaciones
