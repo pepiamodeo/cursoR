@@ -34,7 +34,7 @@ Pepi Amodeo
 ## Ejercicios
 
 **Al finalizar estos ejercicios vas a tener que plasmar tus resultados
-en el siguiente formulario [link](https://forms.gle/3rPSrqHGGF4WQbH57)**
+en el siguiente formulario [link](https://forms.gle/Asu5TcX7M4tT8tbA7)**
 
 1)  Ahora te toca crear a vos desde cero un script llamado TP3_2.R
     (File/New File/Rscript). Acordate de poner comentarios con \# y
