@@ -75,6 +75,16 @@
 
 [Demostración TP1y2](https://drive.google.com/file/d/1lmq-ej3g8BhL3aCYcuB_YILM07gYnVXy/view?usp=drive_link)
 
+#### Día 2
+
+[Clase 4 Objetos](https://drive.google.com/file/d/18BLWdv6en89Xk42sAefImU0fdXHI-1RQ/view?usp=drive_link)
+
+[Clase 5 Objetos y Datos Parte 1](https://drive.google.com/file/d/1dcYsc6YSNHqzxa0C9RsIP98A88SlAsYW/view?usp=drive_link)
+
+[Clase 5 Objetos y Datos Parte 2](https://drive.google.com/file/d/1aQuw2Jx1wY6No1qrtizG3IcMtY67ujay/view?usp=drive_link)
+
+[Demostración TP1y2](https://drive.google.com/file/d/1PnAWTrwx3P-1SNSAvudxMEDrk5mghx8P/view?usp=drive_link)
+
 ****
 
 ## Recursos
