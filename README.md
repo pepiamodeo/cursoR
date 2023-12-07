@@ -33,6 +33,13 @@
 
 [Clase 3 Funciones y Paquetes](https://pepiamodeo.github.io/cursoR/clases/Clase3_funciones_paquetes.pdf)
 
+#### Día 2
+
+[Clase 4 Objetos](https://pepiamodeo.github.io/cursoR/clases/Clase4_objetos.pdf)
+
+[Clase 5 Objetos y Datos](https://pepiamodeo.github.io/cursoR/clases/Clase5_datos_objetos.pdf)
+
+
 ****
 
 ## Trabajos Prácticos
