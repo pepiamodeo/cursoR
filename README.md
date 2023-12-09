@@ -87,6 +87,20 @@
 
 ****
 
+****
+
+## Lecturas sugeridas
+
+****
+
+#### Open Science
+UNESCO.2022. Understanding open science. https://doi.org/10.54677/UTCD9302 [link](https://doi.org/10.54677/UTCD9302)
+
+#### Ciencia Reproducible
+Rodríguez-Sánchez, F., Pérez-Luque, A.J. Bartomeus, I., Varela, S. 2016. Ciencia reproducible: qué, por qué, cómo. Ecosistemas 25(2): 83-92. Doi.: 10.7818/ECOS.2016.25-2.11 [link](https://revistaecosistemas.net/index.php/ecosistemas/article/view/1178)
+
+****
+
 ## Recursos
 
 ****
