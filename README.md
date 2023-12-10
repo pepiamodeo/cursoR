@@ -58,6 +58,13 @@
 
 [TP3.2](https://pepiamodeo.github.io/cursoR/TPs/TP3.2.html)
 
+[TP4](https://pepiamodeo.github.io/cursoR/TPs/TP4.html)
+
+[TP4.1](https://pepiamodeo.github.io/cursoR/TPs/TP4.1.html)
+
+[TP4.2](https://pepiamodeo.github.io/cursoR/TPs/TP4.2.html)
+
+[TP4.3](https://pepiamodeo.github.io/cursoR/TPs/TP4.3.html)
 
 ****
 

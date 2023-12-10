@@ -1,18 +1,20 @@
 Trabajo Práctico 4 - Proyectos y Datos
 ================
 Pepi Amodeo
-Agosto 2022
+2023
 
 <!--SETUP-->
 <style> body {text-align: justify} </style>
 <!--SOCIAL LINKS-->
 
-Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca,
-Argentina
+### Departamento de Biología, Bioquímica y Farmacia, UNS, Bahía Blanca
 
-[![icon_github](./img/icon_github.png)](https://github.com/pepiamodeo)![icon_IADO](./img/logo_iado_2019_negro.png)
+### Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca, Argentina
 
-[Web del Curso](https://pepiamodeo.github.io/cursotallerIADO/)
+![icon_IADO](./img/logo_iado_2019_negro.png)
+![icon_DBBF](./img/BBF_UNS_color_50p.png)
+
+[Web del Curso](https://pepiamodeo.github.io/cursoR/)
 
 # Objetivos
 
@@ -22,7 +24,7 @@ Argentina
 
 -   Cargar datos en R desde planillas de cálculo
 
--   Operar funciones de resumen sobre un dataframe y vectores
+-   Operar funciones sobre un dataframe y vectores
 
 -   Identificar errores típicos en el armado de una planilla de datos
     **ordenada**
@@ -32,53 +34,41 @@ Argentina
 ## Ejercicios
 
 **Al finalizar estos ejercicios vas a tener que plasmar tus resultados
-en el siguiente formulario [link](https://forms.gle/TkXS3yQ7K1N7TZGg9)**
+en el siguiente formulario [link](https://forms.gle/jHjo4c4SUW9iWwzc9)**
 
-1)  Cerrá Rstudio. Descargá el siguiente archivo comprimido
-    [zip](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/analisis_metales.zip)
+1)  Cerrá Rstudio si es que lo tenés funcionando
+
+2)  Descargá el siguiente archivo comprimido
+    [zip](https://pepiamodeo.github.io/cursoR/TPs/scripts/analisis_metales.zip)
     que contiene un proyecto de R completo. Descomprimilo en la carpeta
-    que uses para el TP4.
+    que uses para el TP4 (si no tenés cómo, podés usar
+    [7-zip](https://www.7-zip.org/).
 
-2)  En la carpeta vas a encontrar un archivo .Rproj, un script (.R), un
-    archivo csv y una subcarpeta con más archivos csv. Desde tu
-    explorador ejecutá el archivo .Rproj (te abre Rstudio). Chequeá que
-    a arriba de todo a la derecha diga el nombre del proyecto.
+3)  En el directorio vas a encontrar un archivo .Rproj, un script (.R),
+    y un subdirectorio con un archivo .csv. Desde tu explorador de
+    archivos ejecutá el archivo .Rproj (inicia Rstudio). Verificá que
+    aparezca el nombre del proyecto en el margen superior derecho.
 
-3)  Ahora abrí el script y correlo línea por línea mirando los
-    comentarios.
+4)  Abrí el archivo del script (.R). Podés hacerlo desde el navegador de
+    archivos que tiene Rstudio (panel inferior/ solapa Files) y luego
+    correlo línea por línea mirando los comentarios.
 
-4)  Como te indica el script al final, vas a cargar de a uno, cada uno
-    de los archivos csv de la subcarpeta y compararlo con el primer
-    dataframe que generaste (datos). Corregí los errores editando los
-    csv de la subcarpeta con tu editor de planillas de cálculo favorito.
-    Cada vez, volvé a correr el script para chequear que se haya
-    corregido.
+5)  Revisá en el área de trabajo si el dataframe se creó correctamente
+    ¿cuántas variables y observaciones tiene?
 
-5)  Creá un proyecto en tu carpeta del TP4 (al crearlo se va a crear una
-    subcarpeta con su nombre). Ahí vas a poner el archivo de datos (xlsx
-    o formato que quieras) que generaste en el último punto del TP3. Si
-    no lo hiciste, generala (abajo te recuerdo el inciso del TP3). Creá
-    un script (que vas a guardar en la misma carpeta), en el que cargues
-    los datos con la función correspondiente. Revisá que estén bien
-    definidas las variables y en caso de necesitarlo corregilo con
-    as.factor(), as.numeric(), as.integer().
+6)  Abrí el dataframe (click en el nombre o ícono de planilla en el área
+    de trabajo) y mirá la naturaleza de cada variable (numéricas,
+    enteras, categóricas)
 
-Te recuerdo el último inciso del TP3: *En tu software editor de planilla
-de cálculo favorito, inventá una planilla (plana, completa y ordenada)
-con cuatro variables de tu disciplina (dos numéricas, una entera, una
-categórica) y 8 observaciones. En toda la planilla tiene que haber 5 NA,
-donde vos quieras. Guardala en tu carpeta, que la vamos a usar mañana.*
-Podés usar formato xlsx, o el que te resulte mejor.
+7)  Volvé al área de trabajo y observá la estructura del dataframe
+    (ícono de triángulo a la izquierda del nombre). Si hay variables que
+    deban ser corregidas, agregá las líneas que correspondan en el
+    script (por ejemplo, definilas como numéricas, enteras si hace
+    falta, las variables categóricas definilas como factor).
 
-Si te quedan ganas… acá hay más tortura…
+8)  Guardá el script, cerrá Rstudio (sin guardar el área de trabajo) y
+    comprimí la carpeta entera en un zip para subir al formulario.
 
-1)  Descargá el siguiente
-    [script](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/TP4_ejercicio.R)
-    y abrilo en Rstudio. Recordá ubicar el archivo en tu carpeta del
-    TP4.
-
-2)  Correlo línea por línea desde el editor de scripts. Mirá los
-    comentarios. Al final vas a tener que categorizar una variable
-    numérica y recategorizar una variable categórica.
+*Funciones útiles: as.numeric(), as.integer(), as.factor(), levels()*
 
 ------------------------------------------------------------------------
