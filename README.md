@@ -39,6 +39,10 @@
 
 [Clase 5 Objetos y Datos](https://pepiamodeo.github.io/cursoR/clases/Clase5_datos_objetos.pdf)
 
+#### Día 3
+
+[Clase 6 Proyectos](https://pepiamodeo.github.io/cursoR/clases/Clase6_proyectos.pdf)
+
 
 ****
 
@@ -91,6 +95,17 @@
 [Clase 5 Objetos y Datos Parte 2](https://drive.google.com/file/d/1aQuw2Jx1wY6No1qrtizG3IcMtY67ujay/view?usp=drive_link)
 
 [Demostración TP1y2](https://drive.google.com/file/d/1PnAWTrwx3P-1SNSAvudxMEDrk5mghx8P/view?usp=drive_link)
+
+#### Día 3
+
+[Recap TP3](https://drive.google.com/file/d/12r4Glzeo-l0DVAkO00PngF1H1ASzHPGt/view?usp=sharing) 
+[Clase 6 Proyectos - Parte 1](https://drive.google.com/file/d/1wIT1E_lfccZIYgTB2cKHiUl60OVPJ0FV/view?usp=sharing)
+
+[Clase 6 Proyectos - Parte 2](https://drive.google.com/file/d/1HBRbVUqOt_57OG-EEzmnhsiNtE_5cEO3/view?usp=sharing) 
+
+[Demo TP4 - Parte 1](https://drive.google.com/file/d/1FkQK8cFB3YKKjfUiuQ7hM6z8d-qWXFMP/view?usp=sharing) 
+
+[Demo TP4 - Parte 2](https://drive.google.com/file/d/17WfhKA_ZVggOQ9byMO22WnaM_i2P9MYZ/view?usp=sharing)
 
 ****
 
