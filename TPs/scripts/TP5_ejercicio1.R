@@ -44,7 +44,7 @@ ggplot(data=datos,aes(x=Species))+
 ggplot(data=datos,aes(x=Sepal.Length,y=Petal.Length))+
   geom_point()
 
-#### Estética
+#### Cosmética: color, forma, tamaño del punto
 
 ggplot(data=datos,aes(x=Sepal.Length,y=Petal.Length))+
   geom_point(colour="red")
@@ -85,41 +85,6 @@ ggplot(data=datos,aes(x=Sepal.Width,y=Petal.Length))+
 ggplot(data=datos,aes(x=Sepal.Width,y=Petal.Length))+
   geom_point()+
   facet_grid(.~Species)
-
-# FUNCIONES DE RESUMEN ####
-
-ggplot(data=datos,aes(x=Species,y=Petal.Length))+
-  stat_summary(fun.data=mean_se,geom="bar")
-
-## cambio la representación de la capa de resumen
-
-ggplot(data=datos,aes(x=Species,y=Petal.Length))+
-  stat_summary(fun.data=mean_se,geom="point")
-
-ggplot(data=datos,aes(x=Species,y=Petal.Length))+
-  stat_summary(fun.data=mean_se,geom="errorbar")
-
-### juego un poco superponiendo y cambiando el orden de las capas
-
-ggplot(data=datos,aes(x=Species,y=Petal.Length))+
-  geom_point()+
-  stat_summary(fun.data=mean_se,geom="bar")
-
-ggplot(data=datos,aes(x=Species,y=Petal.Length))+
-  stat_summary(fun.data=mean_se,geom="bar")+
-  geom_point()
-
-# qué pasó?
-
-ggplot(data=datos,aes(x=Species,y=Petal.Length))+
-  stat_summary(fun.data=mean_se,geom="bar")+
-  stat_summary(fun.data=mean_se,geom="errorbar",width=0.3)+
-  geom_point()
-
-ggplot(data=datos,aes(x=Species,y=Petal.Length))+
-  geom_point(colour="grey")+
-  stat_summary(fun.data=mean_se,geom="point",colour="red")+
-  stat_summary(fun.data=mean_se,geom="errorbar",width=0.3)
 
 ggsave("miplot.pdf")
 ggsave("miplot.png")

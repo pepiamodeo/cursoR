@@ -43,6 +43,10 @@
 
 [Clase 6 Proyectos](https://pepiamodeo.github.io/cursoR/clases/Clase6_proyectos.pdf)
 
+#### Día 4
+
+<!--[Clase 7 Visualización](https://pepiamodeo.github.io/cursoR/clases/Clase7_ggplot.pdf)-->
+
 
 ****
 
@@ -69,6 +73,11 @@
 [TP4.2](https://pepiamodeo.github.io/cursoR/TPs/TP4.2.html)
 
 [TP4.3](https://pepiamodeo.github.io/cursoR/TPs/TP4.3.html)
+<!--
+[TP5](https://pepiamodeo.github.io/cursoR/TPs/TP5.html)
+
+[TP5.1](https://pepiamodeo.github.io/cursoR/TPs/TP5.1.html)
+-->
 
 ****
 
@@ -99,6 +108,7 @@
 #### Día 3
 
 [Recap TP3](https://drive.google.com/file/d/12r4Glzeo-l0DVAkO00PngF1H1ASzHPGt/view?usp=sharing) 
+
 [Clase 6 Proyectos - Parte 1](https://drive.google.com/file/d/1wIT1E_lfccZIYgTB2cKHiUl60OVPJ0FV/view?usp=sharing)
 
 [Clase 6 Proyectos - Parte 2](https://drive.google.com/file/d/1HBRbVUqOt_57OG-EEzmnhsiNtE_5cEO3/view?usp=sharing) 
