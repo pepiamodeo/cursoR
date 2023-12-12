@@ -45,7 +45,7 @@
 
 #### Día 4
 
-<!--[Clase 7 Visualización](https://pepiamodeo.github.io/cursoR/clases/Clase7_ggplot.pdf)-->
+[Clase 7 Visualización](https://pepiamodeo.github.io/cursoR/clases/Clase7_ggplot.pdf)
 
 
 ****
@@ -73,11 +73,11 @@
 [TP4.2](https://pepiamodeo.github.io/cursoR/TPs/TP4.2.html)
 
 [TP4.3](https://pepiamodeo.github.io/cursoR/TPs/TP4.3.html)
-<!--
+
 [TP5](https://pepiamodeo.github.io/cursoR/TPs/TP5.html)
 
 [TP5.1](https://pepiamodeo.github.io/cursoR/TPs/TP5.1.html)
--->
+
 
 ****
 
