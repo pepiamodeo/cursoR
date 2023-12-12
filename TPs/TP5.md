@@ -37,17 +37,16 @@ en el siguiente formulario [link](https://forms.gle/PL9sL2meSEwDs3r59)**
     menú.
 
 2)  Descargá el siguiente
-    [script](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/TP5_ejercicio1.R)
+    [script](https://pepiamodeo.github.io/cursoR/TPs/scripts/TP5_ejercicio1.R)
     ubicalo en la carpeta que uses para el TP5.
 
-    -   Abrilo en Rstudio.
-    -   Definí el *working directory* desde el menú (Session/Set Working
-        directory/To Source File Location).
-    -   Ahora R sabe que tu directorio de trabajo es donde tenés el
-        script del TP5.
-    -   Ahora sí, corré el script mirando cómo está construido cada
-        gráfico. Tratá de interpretar las líneas y argumentos de cada
-        gráfico.
+-   Abrilo en Rstudio.
+-   Definí el *working directory* desde el menú (Session/Set Working
+    directory/To Source File Location).
+-   Ahora R sabe que tu directorio de trabajo es donde tenés el script
+    del TP5.
+-   Ahora sí, corré el script mirando cómo está construido cada gráfico.
+    Tratá de interpretar las líneas y argumentos de cada gráfico.
 
 3)  En el mismo script (abajo), hacé todas las variantes que quieras de
     gráficos cambiando lo que quieras (cambiando variables, combinando

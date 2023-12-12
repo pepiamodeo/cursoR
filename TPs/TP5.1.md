@@ -36,7 +36,9 @@ en el siguiente formulario [link](https://forms.gle/PL9sL2meSEwDs3r59)**
 #### Datos propios
 
 1)  Ahora vas a trabajar sobre el proyecto que creaste vos con tus datos
-    inventados ayer en el TP4.2.
+    inventados ayer en el TP4.2. También podés usar datos tuyos
+    (modificá/recortá un poco la planilla para evitar miedos al
+    *PLAGIO*)
 
 -   Cerrá Rstudio
 -   Desde el explorador de windows abrí el archivo Rproj de tu proyecto
@@ -53,6 +55,8 @@ en el siguiente formulario [link](https://forms.gle/PL9sL2meSEwDs3r59)**
 -   uno que involucre una variable categórica y una numérica. Usá el
     geom que quieras
 -   uno que involucre un facet (facet_grid()).
+
+Podés explorar todos los gráficos que quieras hacer.
 
 6)  Guardá tu script, cerrá Rstudio (*don´t save workspace*), comprimí
     la carpeta de tu proyecto en zip y subila al gform.
