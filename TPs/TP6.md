@@ -1,55 +1,53 @@
-Trabajo Práctico 6 - Cierre
+Trabajo Práctico 6
 ================
 Pepi Amodeo
-Agosto 2022
+2023
 
 <!--SETUP-->
 <style> body {text-align: justify} </style>
 <!--SOCIAL LINKS-->
 
-Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca,
-Argentina
+### Departamento de Biología, Bioquímica y Farmacia, UNS, Bahía Blanca
 
-[![icon_github](./img/icon_github.png)](https://github.com/pepiamodeo)![icon_IADO](./img/logo_iado_2019_negro.png)
+### Instituto Argentino de Oceanografía (CONICET UNS) Bahía Blanca, Argentina
 
-[Web del Curso](https://pepiamodeo.github.io/cursotallerIADO/)
+![icon_IADO](./img/logo_iado_2019_negro.png)
+![icon_DBBF](./img/BBF_UNS_color_50p.png)
+
+[Web del Curso](https://pepiamodeo.github.io/cursoR/)
 
 # Objetivos
 
 ------------------------------------------------------------------------
 
--   Reproducir el flujo completo de trabajo con un proyecto de R
+-   Realizar operaciones sobre variables (vectores) de un dataframe
+-   Realizar operaciones sobre un dataframe para reorganizar la
+    estructura de datos
+-   Explorar las funciones de paquetes de `tidyverse`
 
 ------------------------------------------------------------------------
 
 ## Ejercicios
 
-**Al finalizar estos ejercicios vas a tener que responder una pregunta y
-subir el archivo en el siguiente formulario
-[link](https://forms.gle/F93nvRgCQJk8v3op8)**
+**Al finalizar estos ejercicios vas a plasmar tus resultados en el
+siguiente formulario [link](https://forms.gle/5s2ccHArE3m5U7Az8)**
 
-#### Datos propios
+1)  Descargá el siguiente
+    [script](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/TP6_ejercicio.R)
+    y abrilo en Rstudio. Recordá ubicar el archivo en tu directorio del
+    TP6 y definir el working directory.
 
-Vas a crear un proyecto con datos propios y aplicar herramientas de las
-que vimos a lo largo del curso.
+2)  Correlo línea por línea desde el editor de scripts. Mirá los
+    comentarios. Ahí vas a encontrar las consignas y los desafíos así no
+    tenés que ir y venir ¡Alabados sean los comentarios `#`!
 
-1)  Creá un proyecto de R
+Vas a aplicar operaciones sobre variables del dataframe como operaciones
+de resumen, categorizar una variable numérica, recategorizar una
+variable categórica. También vas a aplicar operaciones de reorganización
+del dataframe recurriendo a los paquetes de `tidyverse`.
 
-2)  Ordená y emprolijá bien tu planilla de datos
-
-3)  Guardala en la carpeta del proyecto en el formato que vos quieras
-
-4)  Creá un script (.R) y guardalo en la carpeta. En él vas a:
-
-    -   Cargar la planilla
-    -   Chequear que tus variables estén bien cargadas en el área de
-        trabajo
-    -   Realizar alguna operación de resumen
-    -   Opcional: realizar operaciones sobre el dataframe (re-ordenar,
-        juntar, filtrar)
-    -   Realizar un gráfico básico con ggplot2
-
-5)  Guardá tu script, cerrá Rstudio (*don´t save workspace*), comprimí
-    la carpeta de tu proyecto en zip y subila al gform.
+Opcional: al finalizar podés empezar a experimentar estas operaciones
+con tus propios datos e ir pensando para qué te van a servir en tu
+estudio
 
 ------------------------------------------------------------------------

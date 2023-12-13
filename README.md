@@ -144,6 +144,11 @@ Rodríguez-Sánchez, F., Pérez-Luque, A.J. Bartomeus, I., Varela, S. 2016. Cien
    * [Cookbook R](http://www.cookbook-r.com/)
    * [R Graph Gallery](https://r-graph-gallery.com/)
 
+   * [cheat sheet ggplot2](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
+   *[cheat sheet tidyr](https://rstudio.github.io/cheatsheets/tidyr.pdf)
+   *[cheat sheet dplyr](https://rstudio.github.io/cheatsheets/data-transformation.pdf)
+
+
 ****
 
 ![desk_flip](./TPs/img/deskflip_150p.gif)
