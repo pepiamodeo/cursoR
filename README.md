@@ -47,6 +47,8 @@
 
 [Clase 7 Visualización](https://pepiamodeo.github.io/cursoR/clases/Clase7_ggplot.pdf)
 
+[Clase 8 Tidy Data](https://pepiamodeo.github.io/cursoR/clases/Clase8_tidy_data.pdf)
+
 
 ****
 
@@ -78,6 +80,7 @@
 
 [TP5.1](https://pepiamodeo.github.io/cursoR/TPs/TP5.1.html)
 
+[TP6](https://pepiamodeo.github.io/cursoR/TPs/TP6.html)
 
 ****
 
