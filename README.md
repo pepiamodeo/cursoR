@@ -117,6 +117,12 @@
 
 [Demo TP4 - Parte 2](https://drive.google.com/file/d/17WfhKA_ZVggOQ9byMO22WnaM_i2P9MYZ/view?usp=sharing)
 
+#### Día 4
+
+[Recap TP3](https://drive.google.com/file/d/1NIzuyW-08sEEJJaPpRomOy_BB7HaExed/view?usp=sharing)
+
+[Clase ggplot2](https://drive.google.com/file/d/1DuCL74rIXbwCDAuQq_9lDtDJA9ksbBnl/view?usp=sharing)
+
 ****
 
 ****
@@ -145,7 +151,9 @@ Rodríguez-Sánchez, F., Pérez-Luque, A.J. Bartomeus, I., Varela, S. 2016. Cien
    * [R Graph Gallery](https://r-graph-gallery.com/)
 
    * [cheat sheet ggplot2](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
+   
    *[cheat sheet tidyr](https://rstudio.github.io/cheatsheets/tidyr.pdf)
+   
    *[cheat sheet dplyr](https://rstudio.github.io/cheatsheets/data-transformation.pdf)
 
 
