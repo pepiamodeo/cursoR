@@ -33,7 +33,7 @@ Pepi Amodeo
 siguiente formulario [link](https://forms.gle/5s2ccHArE3m5U7Az8)**
 
 1)  Descargá el siguiente
-    [script](https://pepiamodeo.github.io/cursotallerIADO/TPs/scripts/TP6_ejercicio.R)
+    [script](https://pepiamodeo.github.io/cursoR/TPs/scripts/TP6_ejercicio.R)
     y abrilo en Rstudio. Recordá ubicar el archivo en tu directorio del
     TP6 y definir el working directory.
 
