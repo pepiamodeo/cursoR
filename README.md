@@ -25,30 +25,23 @@
 
 ****
 
-#### Día 1
-
 [Clase 1 Presentación](https://pepiamodeo.github.io/cursoR/clases/Clase1_presentacion.pdf)
 
 [Clase 2 R y Rstudio](https://pepiamodeo.github.io/cursoR/clases/Clase2_RyRstudio.pdf)
 
 [Clase 3 Funciones y Paquetes](https://pepiamodeo.github.io/cursoR/clases/Clase3_funciones_paquetes.pdf)
 
-#### Día 2
-
 [Clase 4 Objetos](https://pepiamodeo.github.io/cursoR/clases/Clase4_objetos.pdf)
 
 [Clase 5 Objetos y Datos](https://pepiamodeo.github.io/cursoR/clases/Clase5_datos_objetos.pdf)
 
-#### Día 3
-
 [Clase 6 Proyectos](https://pepiamodeo.github.io/cursoR/clases/Clase6_proyectos.pdf)
-
-#### Día 4
 
 [Clase 7 Visualización](https://pepiamodeo.github.io/cursoR/clases/Clase7_ggplot.pdf)
 
 [Clase 8 Tidy Data](https://pepiamodeo.github.io/cursoR/clases/Clase8_tidy_data.pdf)
 
+[Clase 9 Análisis](https://pepiamodeo.github.io/cursoR/clases/Clase9_analisis.pdf)
 
 ****
 
@@ -81,6 +74,10 @@
 [TP5.1](https://pepiamodeo.github.io/cursoR/TPs/TP5.1.html)
 
 [TP6](https://pepiamodeo.github.io/cursoR/TPs/TP6.html)
+
+[TP7](https://pepiamodeo.github.io/cursoR/TPs/TP7.html)
+
+[TP8](https://pepiamodeo.github.io/cursoR/TPs/TP8.html)
 
 ****
 
@@ -122,9 +119,17 @@
 
 #### Día 4
 
-[Recap TP3](https://drive.google.com/file/d/1NIzuyW-08sEEJJaPpRomOy_BB7HaExed/view?usp=sharing)
+[Recap TP4](https://drive.google.com/file/d/1NIzuyW-08sEEJJaPpRomOy_BB7HaExed/view?usp=sharing)
 
 [Clase ggplot2](https://drive.google.com/file/d/1DuCL74rIXbwCDAuQq_9lDtDJA9ksbBnl/view?usp=sharing)
+
+#### Día 5
+
+[Recap TP5](https://drive.google.com/file/d/1vAsTFp5YJ-OOUnGFfa_uJDL6hGMcvyxC/view?usp=sharing)
+
+[Clase Tidy Data](https://drive.google.com/file/d/1PmQUKD1y_5Pj2Em5OwX7xczvzA-jltux/view?usp=sharing)
+
+[Demo 6](https://drive.google.com/file/d/1CmOpes8GYuIoV2tZlXk1d0GUONFdw9A6/view?usp=sharing)
 
 ****
 
