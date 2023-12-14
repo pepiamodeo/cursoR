@@ -139,6 +139,13 @@
 
 [Demo 6](https://drive.google.com/file/d/1CmOpes8GYuIoV2tZlXk1d0GUONFdw9A6/view?usp=sharing)
 
+#### Día 6
+
+[Recap TP6](https://drive.google.com/file/d/1dkqcnGkprDVY_--r8aV_ad_NhjNVo04j/view?usp=sharing)
+
+[Clase Análisis](https://drive.google.com/file/d/1qNN6LX-lFWOcILNXZfPDqOZpe8Mfa_fP/view?usp=sharing)
+
+
 ****
 
 ****
