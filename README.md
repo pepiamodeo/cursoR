@@ -140,6 +140,11 @@ UNESCO.2022. Understanding open science. https://doi.org/10.54677/UTCD9302 [link
 #### Ciencia Reproducible
 Rodríguez-Sánchez, F., Pérez-Luque, A.J. Bartomeus, I., Varela, S. 2016. Ciencia reproducible: qué, por qué, cómo. Ecosistemas 25(2): 83-92. Doi.: 10.7818/ECOS.2016.25-2.11 [link](https://revistaecosistemas.net/index.php/ecosistemas/article/view/1178)
 
+#### La Revolución de las IA en las ciencias
+
+Evgenios Agathokleous, Costas J. Saitanis, Chao Fang, Zhen Yu. 2023. Use of ChatGPT: What does it mean for biology and environmental science?, Science of The Total Environment, Vol 888. https://doi.org/10.1016/j.scitotenv.2023.164154
+[link](https://doi.org/10.1016/j.scitotenv.2023.164154)
+
 ****
 
 ## Recursos
@@ -159,6 +164,7 @@ Rodríguez-Sánchez, F., Pérez-Luque, A.J. Bartomeus, I., Varela, S. 2016. Cien
    
    *[cheat sheet dplyr](https://rstudio.github.io/cheatsheets/data-transformation.pdf)
 
+   *[Glosario Curso](https://pepiamodeo.github.io/cursoR/clases/Glosario.pdf)
 
 ****
 
