@@ -79,6 +79,14 @@
 
 [TP8](https://pepiamodeo.github.io/cursoR/TPs/TP8.html)
 
+#### Algunos scripts que usamos
+
+[recap TP6 - MELT](https://pepiamodeo.github.io/cursoR/TPs/scripts/recapTP6.R)
+
+[demo 7](https://pepiamodeo.github.io/cursoR/TPs/scripts/demo7_analisis.R)
+
+
+
 ****
 
 ## Grabaciones
