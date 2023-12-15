@@ -7,15 +7,17 @@
 ![icon_IADO](./TPs/img/logo_iado_2019_negro.png)
 ![icon_DBBF](./TPs/img/BBF_UNS_color_50p.png)
 
-¡Bienvenido/a al Curso Introducción a R! En esta web vas a encontrar todo el material y las novedades a medida que avancemos en el curso.
+![desk_flip](./TPs/img/claquetita_200.png)
+
+Claqueta les agradece por el entusiasmo y la buena onda que le pusieron a la realización del curso.
 
 ****
 
-## Planilla Inscripción UNS
+## Avisos
 
 ****
 
-*COMPLETAR QUIENES FALTEN*
+**COMPLETAR QUIENES FALTEN**
 
 [Descargar Planilla de Inscripción UNS](https://pepiamodeo.github.io/cursoR/clases/Planilla_inscripcion_cursos.docx)
 
@@ -93,8 +95,6 @@
 
 [demo 7](https://pepiamodeo.github.io/cursoR/TPs/scripts/demo7_analisis.R)
 
-
-
 ****
 
 ## Grabaciones
@@ -153,7 +153,6 @@
 
 [Clase Análisis](https://drive.google.com/file/d/1qNN6LX-lFWOcILNXZfPDqOZpe8Mfa_fP/view?usp=sharing)
 
-
 ****
 
 ****
@@ -172,6 +171,8 @@ Rodríguez-Sánchez, F., Pérez-Luque, A.J. Bartomeus, I., Varela, S. 2016. Cien
 
 Evgenios Agathokleous, Costas J. Saitanis, Chao Fang, Zhen Yu. 2023. Use of ChatGPT: What does it mean for biology and environmental science?, Science of The Total Environment, Vol 888. https://doi.org/10.1016/j.scitotenv.2023.164154
 [link](https://doi.org/10.1016/j.scitotenv.2023.164154)
+[PDF](Agathokleous_etal_2023_chatGPT.pdf)
+
 
 #### The Rigth to Read
 
