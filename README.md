@@ -15,9 +15,17 @@
 
 ****
 
+*COMPLETAR QUIENES FALTEN*
+
 [Descargar Planilla de Inscripción UNS](https://pepiamodeo.github.io/cursoR/clases/Planilla_inscripcion_cursos.docx)
 
 [Subir Planilla completa en pdf](https://forms.gle/E85fyNQRNkQ7hhmp8)
+
+[TP0](https://forms.gle/YRcQe3y6xcsFZGro8)
+
+[Encuesta de opinión del curso](https://forms.gle/CFbJbn575bLPvjf58)
+
+[Diagnóstico General](https://pepiamodeo.github.io/cursoR/clases/diagnostico_general.pdf)
 
 ****
 
@@ -165,6 +173,12 @@ Rodríguez-Sánchez, F., Pérez-Luque, A.J. Bartomeus, I., Varela, S. 2016. Cien
 Evgenios Agathokleous, Costas J. Saitanis, Chao Fang, Zhen Yu. 2023. Use of ChatGPT: What does it mean for biology and environmental science?, Science of The Total Environment, Vol 888. https://doi.org/10.1016/j.scitotenv.2023.164154
 [link](https://doi.org/10.1016/j.scitotenv.2023.164154)
 
+#### The Rigth to Read
+
+Cuento __The Rigth to Read__ de Richard Stallman 
+[Versión Original](https://www.gnu.org/philosophy/right-to-read.en.html) / 
+[Versión ESP](https://www.gnu.org/philosophy/right-to-read.es.html)
+
 ****
 
 ## Recursos
@@ -179,12 +193,26 @@ Evgenios Agathokleous, Costas J. Saitanis, Chao Fang, Zhen Yu. 2023. Use of Chat
    * [R Graph Gallery](https://r-graph-gallery.com/)
 
    * [cheat sheet ggplot2](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
-   
    *[cheat sheet tidyr](https://rstudio.github.io/cheatsheets/tidyr.pdf)
-   
    *[cheat sheet dplyr](https://rstudio.github.io/cheatsheets/data-transformation.pdf)
 
    *[Glosario Curso](https://pepiamodeo.github.io/cursoR/clases/Glosario.pdf)
+
+****
+
+## Bibliografía
+
+****
+
+Crawley, M. J. (2007). The R book. Wiley. Chichister, England.
+
+Kabacoff, R. (2022). R in action: Data analysis and graphics with R and Tidyverse (Third edition). Manning Publications. Los Ángeles, USA.
+
+Wickham, H. (2009). ggplot2: Elegant Graphics for Data Analysis. Springer. New York, USA. https://doi.org/10.1007/978-0-387-98141-3
+
+Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). R for data science: Import, tidy, transform, visualize, and model data (2nd edition). O’Reilly Media, Inc. Sebastopol, USA.
+
+Zuur, A. F., Ieno, E. N., & Meesters, E. (2009). A Beginner’s Guide to R. Springer New York, USA. https://doi.org/10.1007/978-0-387-93837-0
 
 ****
 
