@@ -17,6 +17,8 @@ Claqueta les agradece por el entusiasmo y la buena onda que le pusieron a la rea
 
 ****
 
+Si no pudiste estar en el cierre, ver la sección *Grabaciones*.
+
 **COMPLETAR QUIENES FALTEN**
 
 [Descargar Planilla de Inscripción UNS](https://pepiamodeo.github.io/cursoR/clases/Planilla_inscripcion_cursos.docx)
@@ -152,6 +154,16 @@ Claqueta les agradece por el entusiasmo y la buena onda que le pusieron a la rea
 [Recap TP6](https://drive.google.com/file/d/1dkqcnGkprDVY_--r8aV_ad_NhjNVo04j/view?usp=sharing)
 
 [Clase Análisis](https://drive.google.com/file/d/1qNN6LX-lFWOcILNXZfPDqOZpe8Mfa_fP/view?usp=sharing)
+
+#### Día 7
+
+Falló la grabación del día 7! 
+
+En síntesis, hicimos una recapitulación general del curso, definimos los criterios de evaluación y un diagnóstico general para que cada uno/a pueda ver dónde se halla. Usamos IA como asistente de programación en R. En la sección *Avisos*, podrán ver en un pdf el diagnóstico general con qué prácticos entregó cada uno/a según su dni, y qué le falta. También podrán completar la inscripción, el tp0 (quienes falten) así como dejar comentarios y sugerencias para ayudar a mejorar el curso.
+
+Como les comenté desde el inicio, la modalidad del curso es intensiva y sincrónica (con flexibilidad por supuesto). La aprobación del mismo integra criterios de asistencia, participación en los trabajos prácticos y el sincronismo con el dictado de las clases. Por supuesto hay flexibilidad, pero no es un curso pensado para realizar de forma asincrónica y hacer todo en diferido.
+
+Quienes quieran completar TPs que les falten, pueden hacerlo hasta el 22/12 a las 12:00, momento en el que este curso se autodestruirá para siempre... al menos hasta su próxima edición...
 
 ****
 
