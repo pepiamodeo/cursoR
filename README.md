@@ -11,9 +11,15 @@
 
 ¡Bienvenido/a al sitio del curso Introducción a R!
 
-[CV del profesor](https://pepiamodeo.github.io/cursoR/docs/CV_Amodeo_2023.pdf)
-
 [Programa del curso](https://pepiamodeo.github.io/cursoR/docs/Programa.pdf)
+
+[Contenido Resumido](https://pepiamodeo.github.io/cursoR/docs/contenido_cursoR_2023.pdf)
+
+[Acta DBBF](https://pepiamodeo.github.io/cursoR/docs/DBBF_Acta211123_punto20.pdf)
+
+[CV profesor 2023](https://pepiamodeo.github.io/cursoR/docs/CV_Amodeo_2023.pdf)
+
+[CV profesor 2024](https://pepiamodeo.github.io/cursoR/docs/CV_Amodeo_2024.pdf)
 
 Consultas: mamodeo@iado-conicet.gob.ar
 
