@@ -35,7 +35,3 @@
 [Activity 4](https://pepiamodeo.github.io/cursoR/changshu/activity/activity_4.R)
 
 ****
-
-REMEMBER... REMEMBER...
-
-![desk_flip](./TPs/img/deskflip_150p.gif)
