@@ -6,6 +6,12 @@
 
 ### Departamento de Biología, Bioquímica y Farmacia, Universidad Nacional del Sur / Instituto Argentino de Oceanografía (CONICET UNS). Bahía Blanca, Argentina.
 
+## R installation
+
+[Installation (CN)](https://rpubs.com/pepiamodeo/changshu_installation_CN)
+
+[Installation (EN)](https://rpubs.com/pepiamodeo/changshu_installation_EN)
+
 ## Lessons
 
 [Lesson 1](https://pepiamodeo.github.io/cursoR/changshu/lessons/Lesson1_RyRstudio.pdf)
