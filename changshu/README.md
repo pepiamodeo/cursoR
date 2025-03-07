@@ -10,7 +10,7 @@
 
 [Installation (CN)](https://rpubs.com/pepiamodeo/changshu_installation_CN)
 
-[Installation (EN)](https://rpubs.com/pepiamodeo/changshu_installation_EN)
+[Installation (EN)](https://rpubs.com/pepiamodeo/changshu_EN)
 
 ## Lessons
 
