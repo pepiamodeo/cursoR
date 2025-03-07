@@ -34,4 +34,9 @@
 
 [Activity 4](https://pepiamodeo.github.io/cursoR/changshu/activity/activity_4.R)
 
+[Activity 5](https://pepiamodeo.github.io/cursoR/changshu/activity/activity_5.R)
+
+[Data for Activity 5](https://pepiamodeo.github.io/cursoR/changshu/activity/data_seed.xlsx)
+
+
 ****
