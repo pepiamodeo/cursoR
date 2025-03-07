@@ -24,6 +24,8 @@
 
 [Lesson 5](https://pepiamodeo.github.io/cursoR/changshu/lessons/Lesson5_data.pdf)
 
+[Lesson 6](https://pepiamodeo.github.io/cursoR/changshu/lessons/Lesson6_analysis.pdf)
+
 ## Activities
 
 [Activity 1](https://pepiamodeo.github.io/cursoR/changshu/activity/activity_1.R)
