@@ -13,13 +13,17 @@ El presente curso teórico-práctico ofrece los fundamentos básicos necesarios 
 Unidad 1. Ciencia abierta y reproducible. Software libre, programación y análisis de datos.
 Uso del software, estructura y flujo de trabajo en un proyecto de análisis de datos. Rstudio, interfaz
 de uso.
+
 Unidad 2. Funciones y paquetes. Objetos. Estructura de archivos, rutas y proyectos en
 Rstudio. Carga y manipulación de datos, conversiones y operaciones típicas en la estructura de datos
 (filtros, resúmenes).
+
 Unidad 3. Tipos de datos, tipos de variables. Organización y manipulación de datos
 (operaciones típicas, filtros, resúmenes). Variables y operaciones estadísticas básicas.
+
 Unidad 4. Visualización de datos con ggplot2. Funcionamiento básico con una, dos y tres
 variables.
+
 Unidad 5. Aplicación a un proyecto de análisis de datos: Análisis de Correlación y Modelos
 Lineales. Estructura y flujo de trabajo según los objetivos de investigación.
 
