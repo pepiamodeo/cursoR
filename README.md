@@ -1,6 +1,6 @@
 ## Curso Introducción a R
 
-![icon_IADO](https://pepiamodeo.github.io/cursoR/img/logo_iado_2019_negro.png)
+![icon_IADO](./img/logo_iado_2019_negro.png)
 
 ![icon_DBBF](./img/BBF_UNS_color_50p.png)
 
