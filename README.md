@@ -15,11 +15,10 @@ Uso del software, estructura y flujo de trabajo en un proyecto de análisis de d
 de uso.
 
 Unidad 2. Funciones y paquetes. Objetos. Estructura de archivos, rutas y proyectos en
-Rstudio. Carga y manipulación de datos, conversiones y operaciones típicas en la estructura de datos
-(filtros, resúmenes).
+Rstudio. Carga y manipulación de datos, conversiones y operaciones típicas en la estructura de datos.
 
 Unidad 3. Tipos de datos, tipos de variables. Organización y manipulación de datos
-(operaciones típicas, filtros, resúmenes). Variables y operaciones estadísticas básicas.
+(operaciones, filtros, resúmenes). Variables y operaciones estadísticas básicas.
 
 Unidad 4. Visualización de datos con ggplot2. Funcionamiento básico con una, dos y tres
 variables.
