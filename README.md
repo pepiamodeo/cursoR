@@ -6,7 +6,7 @@
 
 ¡Bienvenido/a al sitio del curso Introducción a R!
 
-[pre-inscripcion](https://forms.gle/AvujZ1Waf2ah9isp8)
+[formulario de pre-inscripcion](https://forms.gle/AvujZ1Waf2ah9isp8)
 
 El presente curso teórico-práctico ofrece los fundamentos básicos necesarios para llevar a cabo el procesamiento y análisis de datos más habituales en las ciencias biológicas y ambientales, utilizando el software R. El curso está destinado a becarios/as doctorales y post-doctorales, así como investigadores/as, profesionales y docentes de instituciones científicas públicas. Las clases y demostraciones serán dictadas en encuentros virtuales de 2-3 horas, los lunes, miércoles y viernes entre el 20 y 30 de abril de 2026.  Las actividades prácticas de aplicación se plantean de forma asincrónica. El contenido del curso se gestionará mediante el uso de la plataforma Moodle UNS. 
 
