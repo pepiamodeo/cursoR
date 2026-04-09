@@ -8,7 +8,10 @@
 
 [formulario de pre-inscripcion](https://forms.gle/AvujZ1Waf2ah9isp8)
 
-El presente curso teórico-práctico ofrece los fundamentos básicos necesarios para llevar a cabo el procesamiento y análisis de datos más habituales en las ciencias biológicas y ambientales, utilizando el software R. El curso está destinado a becarios/as doctorales y post-doctorales, así como investigadores/as, profesionales y docentes de instituciones científicas públicas. Las clases y demostraciones serán dictadas en encuentros virtuales de 2-3 horas, los lunes, miércoles y viernes entre el 20 y 30 de abril de 2026.  Las actividades prácticas de aplicación se plantean de forma asincrónica. El contenido del curso se gestionará mediante el uso de la plataforma Moodle UNS. 
+El presente curso teórico-práctico ofrece los fundamentos básicos necesarios para llevar a cabo el procesamiento y análisis de datos más habituales en las ciencias biológicas y ambientales, utilizando el software R. El curso está destinado a becarios/as doctorales y post-doctorales, así como investigadores/as, profesionales y docentes de instituciones científicas públicas. Las clases y demostraciones serán dictadas en encuentros virtuales de 2-3 horas, los lunes, miércoles y viernes entre el 11 y 22 de mayo de 2026.  Las actividades prácticas de aplicación se plantean de forma asincrónica. El contenido del curso se gestionará mediante el uso de la plataforma Moodle UNS. 
+
+Del 11 al 22 de mayo 2026
+Lunes, miércoles y viernes 9:00 - 12:00
 
 Unidad 1. Ciencia abierta y reproducible. Software libre, programación y análisis de datos.
 Uso del software, estructura y flujo de trabajo en un proyecto de análisis de datos. Rstudio, interfaz
