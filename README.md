@@ -12,6 +12,8 @@ El presente curso teórico-práctico ofrece los fundamentos básicos necesarios 
 
 Fecha: Del 11 al 22 de mayo 2026. Lunes, miércoles y viernes de 9:00 a 12:00
 
+Costo: $60000 (estudiantes de posgrado DBBF UNS: $40000)
+
 Unidad 1. Ciencia abierta y reproducible. Software libre, programación y análisis de datos.
 Uso del software, estructura y flujo de trabajo en un proyecto de análisis de datos. Rstudio, interfaz
 de uso.
